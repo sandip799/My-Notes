@@ -1,0 +1,21 @@
+{
+  "editor:fold-all": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "editor:unfold-all": [],
+  "editor:toggle-fold": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "editor:follow-link": [],
+  "editor:insert-wikilink": []
+}

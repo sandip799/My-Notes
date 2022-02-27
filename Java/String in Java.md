@@ -1,0 +1,4 @@
+- we can make strings using three class that is string, string builder & string buffer
+- string is immutable, means we can not modify string
+- whenever we made any change in string a new instance is created
+- 

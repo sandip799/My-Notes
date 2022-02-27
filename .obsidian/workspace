@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "e9c37869e02f1324",
+    "type": "split",
+    "children": [
+      {
+        "id": "41b6df2e81a3fb52",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "C Programming/000 Course Content Of C Programming.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc08b86987e252ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "437071886fb0a0c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae204b8c4a670bd5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ac581afa9248e9bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310
+  },
+  "right": {
+    "id": "42441e7a39fac716",
+    "type": "split",
+    "children": [
+      {
+        "id": "15e551ea8f387ff9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "248ca9080bcc7d64",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C Programming/000 Course Content Of C Programming.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e248411b544c26bd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "41b6df2e81a3fb52",
+  "lastOpenFiles": [
+    "C Programming/000 Course Content Of C Programming.md",
+    "Computer Network/Introduction.md",
+    "Computer Network/Course Content.md",
+    "DAA/202109032247.md",
+    "Java Script/Data Structure In Java Script.md",
+    "DAA/Linked List.md",
+    "DAA/Course Content.md",
+    "DAA/Design Analysis & Algorithm.md",
+    "DAA/Math In Programming.md",
+    "DAA/Time Complexity.md"
+  ]
+}

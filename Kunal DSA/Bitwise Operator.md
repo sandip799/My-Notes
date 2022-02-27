@@ -1,0 +1,8 @@
+- when you and 1 with a number then the number remain same
+- XOR (if and only if), this means only one should be true
+- a ^ 1 = a complement
+- a ^ 0 = a 
+- a ^ a = 0
+- Complement(~) - complement the numbers 
+- Left shift operator - a << 1 = 2a,  so a << b = a * 2^b
+- Similarly in right shift is dividing the number by 2^b
